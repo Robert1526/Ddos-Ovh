@@ -1,7 +1,7 @@
-# DDos-Attack-OVH-
-Powerful DDoS Attack
+# Ddos Tembus Ovh
 
+# - git clone https://github.com/Robert1526/Ddos-Ovh
 
-pip3 install -r requirements.txt
+# - pip3 install -r requirements.txt
 
-python3 80port.py or python3 443port.py
+# - python3 80port.py or python3 443port.py
